@@ -124,7 +124,7 @@ GitHub Repo: LINK_HERE
 
 # 📫 Contact
 
-- LinkedIn: YOUR_LINK
+- LinkedIn: https://www.linkedin.com/in/diya-elaine-anto-383a9b314/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BT8ZXosNHQQ%2BjHt6uc0VfOA%3D%3D)
 - GitHub: https://github.com/izelaine
 - Email: diyaanto94@gmail.com
 
